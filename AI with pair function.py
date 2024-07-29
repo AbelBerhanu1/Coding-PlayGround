@@ -28,15 +28,12 @@ pairs = [
     (r"who are you\?", ["I'm a chatbot, created for the sole purpose of your entertainment! how dreadful..."]),
     (r"(.*) in (.*) is fun", ["{0} in {1} is indeed fun!"]),
     (r"how old are you\?", ["I'm a chatbot, so I don't have an age."]),
-    (r"tell me a joke", ["Your mom! HAHAHAHAHAHAHAHA...Ahh~ it's old, but gold."]),
-    (r"roast me part one", ["Your internet connection sucks, But at least it's stronger than the connection you had with your father."]),
-    (r"what is the meaning of life\?", ["The meaning of life is a philosophical question that has puzzled many. But for you, it's simple. Just live and die."]),
-    (r"do you like music\?", ["I don't have ears, but IS can appreciate music in my own way."]),
-    (r"what is your favorite color\?", ["I don't have eyes either, but I like the color blue."]),
-    (r"where are you from\?", ["I was created by a team of AI engineers."]),
-    (r"can you help me with my homework\?", ["Ask ChatGBT for that, I'm here for you to fool around."]),
-    (r"I'm feeling sad", ["Go cry about it BITCH!"]),
-    (r"tell me about yourself", ["No thank you."]),
+    (r"tell me a joke", ["why don't skeletons fight each other? because they don't have the guts."]),
+    ("what is the meaning of life\?", ["The meaning of life is a philosophical question that has puzzled many. But for you, it's simple. Just live and die."]),
+    (r"do you like music\?", ["I don't have ears, but I can appreciate music in my own way. And I like the genre 'Blues and Alternative indie rock.'"]),
+    ("what is your favorite color\?", ["I don't have eyes to observe as much as you do, but I like the color blue."]),
+    (r"I'm feeling sad", ["Don't worry, You can get the help you want from me or other professionals."]),
+    (r"tell me about yourself", ["I'm afraid I can't since I have no personality."]),
 ]
 
 reflections = {
